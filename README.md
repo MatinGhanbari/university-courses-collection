@@ -1,7 +1,7 @@
 # List of Free Learning Resources for University Courses
 
 <div align="center" markdown="1">
-  
+
 ![UniversityCourses](https://img.freepik.com/premium-photo/study-room-room-house-where-person-can-relax-ai-generated_866663-6461.jpg)
 
 </div>
