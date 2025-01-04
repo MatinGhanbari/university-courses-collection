@@ -23,6 +23,7 @@ By providing access to a diverse array of courses, both core and elective, this 
 - [Computer Engineering](majors/computer-engineering/README.md)
 - [Computer Science](majors/computer-science/README.md)
 - [Electrical Engineering](majors/electrical-engineering/README.md)
+- [Civil Engineering](majors/civil-engineering/README.md)
 
 # Professors
 Also you can find professors list [here](professors/README.md).
